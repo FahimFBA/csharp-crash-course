@@ -3,4 +3,4 @@ This course was followed from [freecodecamp](https://www.freecodecamp.org/). You
 
 ## You can follow this index for maintaining the serial ##
 
-1. [Hello World](HelloWorld\HelloWorld\Program.cs)
+1. [Hello World](HelloWorld/HelloWorld/Program.cs)
