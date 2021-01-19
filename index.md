@@ -17,3 +17,4 @@ This course was followed from [freecodecamp](https://www.freecodecamp.org/). You
 12. [If Statement](https://github.com/FahimFBA/csharp-crash-course/blob/main/IfStatement/IfStatement/Program.cs)
 13. [If Statement Continuing](https://github.com/FahimFBA/csharp-crash-course/blob/main/MoreIfStatements/MoreIfStatements/Program.cs)
 14. [Building A Better Calculator](https://github.com/FahimFBA/csharp-crash-course/blob/main/BuildingABetterCalculator/BuildingABetterCalculator/Program.cs)
+15. [Switch Statements](https://github.com/FahimFBA/csharp-crash-course/blob/main/SwitchStatements/SwitchStatements/Program.cs)
