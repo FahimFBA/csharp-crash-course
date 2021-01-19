@@ -1,7 +1,7 @@
-# csharp-crash-course #
+# C# Crash Course #
 This course was followed from [freecodecamp](https://www.freecodecamp.org/). You can follow their website for more amazing informations.
 
-## You can follow this index for maintaining the serial ##
+## You can follow this index for maintaining the serial: ##
 
 1.  [Hello World](https://github.com/FahimFBA/csharp-crash-course/blob/main/HelloWorld/HelloWorld/Program.cs)
 2.  [Variables](https://github.com/FahimFBA/csharp-crash-course/blob/main/Variables/Variables/Program.cs)
