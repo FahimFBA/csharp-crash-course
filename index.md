@@ -18,3 +18,5 @@ This course was followed from [freecodecamp](https://www.freecodecamp.org/). You
 13. [If Statement Continuing](https://github.com/FahimFBA/csharp-crash-course/blob/main/MoreIfStatements/MoreIfStatements/Program.cs)
 14. [Building A Better Calculator](https://github.com/FahimFBA/csharp-crash-course/blob/main/BuildingABetterCalculator/BuildingABetterCalculator/Program.cs)
 15. [Switch Statements](https://github.com/FahimFBA/csharp-crash-course/blob/main/SwitchStatements/SwitchStatements/Program.cs)
+16. [While Loops](https://github.com/FahimFBA/csharp-crash-course/blob/main/WhileLoop/WhileLoop/Program.cs)
+17. [Do While Loops](https://github.com/FahimFBA/csharp-crash-course/blob/main/DoWhileLoop/DoWhileLoop/Program.cs)
