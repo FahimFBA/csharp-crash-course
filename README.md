@@ -18,3 +18,5 @@ This course was followed from [freecodecamp](https://www.freecodecamp.org/). You
 13. [If Statement Continuing](MoreIfStatements/MoreIfStatements/Program.cs)
 14. [Building A Better Calculator](BuildingABetterCalculator/BuildingABetterCalculator/Program.cs)
 15. [Switch Statements](SwitchStatements/SwitchStatements/Program.cs)
+16. [While Loops](WhileLoop/WhileLoop/Program.cs)
+17. [Do While Loops](DoWhileLoop/DoWhileLoop/Program.cs)
