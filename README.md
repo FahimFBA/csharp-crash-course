@@ -20,3 +20,5 @@ This course was followed from [freecodecamp](https://www.freecodecamp.org/). You
 15. [Switch Statements](SwitchStatements/SwitchStatements/Program.cs)
 16. [While Loops](WhileLoop/WhileLoop/Program.cs)
 17. [Do While Loops](DoWhileLoop/DoWhileLoop/Program.cs)
+18. [Building A Guessing Game](BuildingAGuessingGame/BuildingAGuessingGame/Program.cs)
+19. [For Loops](ForLoops/Program.cs)
