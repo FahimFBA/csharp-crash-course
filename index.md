@@ -22,3 +22,4 @@ This course was followed from [freecodecamp](https://www.freecodecamp.org/). You
 17. [Do While Loops](https://github.com/FahimFBA/csharp-crash-course/blob/main/DoWhileLoop/DoWhileLoop/Program.cs)
 18. [Building A Guessing Game](https://github.com/FahimFBA/csharp-crash-course/blob/main/BuildingAGuessingGame/BuildingAGuessingGame/Program.cs)
 19. [For Loops](https://github.com/FahimFBA/csharp-crash-course/blob/main/ForLoops/Program.cs)
+20. [Building An Exponent Method](https://github.com/FahimFBA/csharp-crash-course/blob/main/BuildingAnExponentMethod/Program.cs)
