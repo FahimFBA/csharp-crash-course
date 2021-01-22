@@ -1,7 +1,7 @@
 # csharp-crash-course #
 This course was followed from [freecodecamp](https://www.freecodecamp.org/). You can follow their website for more amazing informations.
 
-## You can follow this index for maintaining the serial ##
+## You can follow this index for maintaining the serial : ##
 
 1.  [Hello World](HelloWorld/HelloWorld/Program.cs)
 2.  [Variables](Variables/Variables/Program.cs)
@@ -22,3 +22,4 @@ This course was followed from [freecodecamp](https://www.freecodecamp.org/). You
 17. [Do While Loops](DoWhileLoop/DoWhileLoop/Program.cs)
 18. [Building A Guessing Game](BuildingAGuessingGame/BuildingAGuessingGame/Program.cs)
 19. [For Loops](ForLoops/Program.cs)
+20. [Building An Exponent Method](BuildingAnExponentMethod/Program.cs)
