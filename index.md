@@ -1,6 +1,19 @@
 # C# Crash Course 
 This course was followed from [freecodecamp](https://www.freecodecamp.org/). You can follow their website for more amazing informations.
 
+## You can follow these procedures to run C# codes in your windows machine
+- Software (as IDE):
+  - [Microsoft Visual Studio 2019](https://visualstudio.microsoft.com/vs/) or
+  - [Visual Studio Code](https://code.visualstudio.com/) [ I personally prefer VS Code ]
+    - Follow these steps to prepare your windows machine properly for running C# programs
+      - [Download .NET Core](https://dotnet.microsoft.com/download)
+      - Check the version of the .NET Core by running this command through your terminal. You will get the version information.
+        ```
+        dotnet --version
+        ```
+      - Open VS Code. Go to the extensions section and install c# extension.
+        ![C# Extension](https://ibb.co/ZgRwm7s)
+
 ## You can follow this index for maintaining the serial: ##
 
 1.  [Hello World](https://github.com/FahimFBA/csharp-crash-course/blob/main/HelloWorld/HelloWorld/Program.cs)
