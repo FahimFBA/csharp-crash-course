@@ -12,7 +12,20 @@ This course was followed from [freecodecamp](https://www.freecodecamp.org/). You
         dotnet --version
         ```
       - Open VS Code. Go to the extensions section and install c# extension.
-        ![C# Extension](c# extension.png)
+        ![C# Extension](img/extension.png)
+      - Create a project folder. The folder name should be the name of the project.
+      - Go to the folder and open terminal / Command Prompt there.
+      - Go to the project directory through your terminal / Command Prompt.
+      - Type the following command and press the enter button. This will create a basic console app in that project directory:
+        ```
+        dotnet new console
+        ```
+      - After getting "Restore succeeded" , type the following command and press the enter button. The project will open directly in your VS Code IDE.
+        ```
+        code .
+        ```
+      - You will get your full project into the VS Code window. 
+        ![C# Project Folder in VS Code](img/project.png)
 
 ## You can follow this index for maintaining the serial: ##
 
