@@ -12,7 +12,7 @@ This course was followed from [freecodecamp](https://www.freecodecamp.org/). You
         dotnet --version
         ```
       - Open VS Code. Go to the extensions section and install c# extension.
-        ![C# Extension](https://ibb.co/ZgRwm7s)
+        ![C# Extension](c# extension.png)
 
 ## You can follow this index for maintaining the serial: ##
 
