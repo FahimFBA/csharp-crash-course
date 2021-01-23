@@ -49,3 +49,4 @@ This course was followed from [freecodecamp](https://www.freecodecamp.org/). You
 18. [Building A Guessing Game](https://github.com/FahimFBA/csharp-crash-course/blob/main/BuildingAGuessingGame/BuildingAGuessingGame/Program.cs)
 19. [For Loops](https://github.com/FahimFBA/csharp-crash-course/blob/main/ForLoops/Program.cs)
 20. [Building An Exponent Method](https://github.com/FahimFBA/csharp-crash-course/blob/main/BuildingAnExponentMethod/Program.cs)
+21. [2D Arrays](https://github.com/FahimFBA/csharp-crash-course/blob/main/2DArrays/Program.cs)
