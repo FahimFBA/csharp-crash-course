@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.exe
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.deps.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.runtimeconfig.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\bin\Debug\net5.0\ref\GettersAndSetters.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\obj\Debug\net5.0\ref\GettersAndSetters.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.genruntimeconfig.cache
