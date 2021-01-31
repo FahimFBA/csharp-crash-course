@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.exe
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.deps.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.runtimeconfig.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\bin\Debug\net5.0\ref\StaticMethodsAndClasses.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\obj\Debug\net5.0\ref\StaticMethodsAndClasses.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.genruntimeconfig.cache

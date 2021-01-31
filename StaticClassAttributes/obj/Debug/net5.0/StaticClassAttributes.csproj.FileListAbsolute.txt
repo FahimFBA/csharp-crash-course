@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.exe
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.deps.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.runtimeconfig.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\bin\Debug\net5.0\ref\StaticClassAttributes.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\obj\Debug\net5.0\ref\StaticClassAttributes.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.genruntimeconfig.cache

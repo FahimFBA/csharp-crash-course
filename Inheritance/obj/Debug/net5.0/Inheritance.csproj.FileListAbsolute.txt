@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\obj\Debug\net5.0\Inheritance.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\bin\Debug\net5.0\Inheritance.exe
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
