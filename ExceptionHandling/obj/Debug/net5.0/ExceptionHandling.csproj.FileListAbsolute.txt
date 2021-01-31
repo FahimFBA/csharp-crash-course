@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.exe
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.deps.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\bin\Debug\net5.0\ref\ExceptionHandling.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\obj\Debug\net5.0\ref\ExceptionHandling.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.genruntimeconfig.cache

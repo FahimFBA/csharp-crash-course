@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\bin\Debug\net5.0\Constructors.exe
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\bin\Debug\net5.0\Constructors.deps.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\bin\Debug\net5.0\Constructors.runtimeconfig.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\bin\Debug\net5.0\Constructors.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\bin\Debug\net5.0\Constructors.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\bin\Debug\net5.0\ref\Constructors.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\bin\Debug\net5.0\Constructors.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\obj\Debug\net5.0\Constructors.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\obj\Debug\net5.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\obj\Debug\net5.0\Constructors.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\obj\Debug\net5.0\Constructors.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\obj\Debug\net5.0\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\obj\Debug\net5.0\Constructors.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\obj\Debug\net5.0\ref\Constructors.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\obj\Debug\net5.0\Constructors.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\Constructors\obj\Debug\net5.0\Constructors.genruntimeconfig.cache

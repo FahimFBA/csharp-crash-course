@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.exe
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.deps.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.runtimeconfig.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\bin\Debug\net5.0\ref\ClassesAndObjects.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\obj\Debug\net5.0\ref\ClassesAndObjects.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.genruntimeconfig.cache
