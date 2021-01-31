@@ -1,0 +1,16 @@
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\bin\Debug\net5.0\ObjectMethods.exe
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\bin\Debug\net5.0\ObjectMethods.deps.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\bin\Debug\net5.0\ObjectMethods.runtimeconfig.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\bin\Debug\net5.0\ObjectMethods.runtimeconfig.dev.json
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\bin\Debug\net5.0\ObjectMethods.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\bin\Debug\net5.0\ref\ObjectMethods.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\bin\Debug\net5.0\ObjectMethods.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\obj\Debug\net5.0\ObjectMethods.csprojAssemblyReference.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\obj\Debug\net5.0\ObjectMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\obj\Debug\net5.0\ObjectMethods.AssemblyInfoInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\obj\Debug\net5.0\ObjectMethods.AssemblyInfo.cs
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\obj\Debug\net5.0\ObjectMethods.csproj.CoreCompileInputs.cache
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\obj\Debug\net5.0\ObjectMethods.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\obj\Debug\net5.0\ref\ObjectMethods.dll
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\obj\Debug\net5.0\ObjectMethods.pdb
+C:\Users\FBA\Desktop\Github repo\csharp-crash-course\ObjectMethods\obj\Debug\net5.0\ObjectMethods.genruntimeconfig.cache
